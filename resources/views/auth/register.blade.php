@@ -61,7 +61,21 @@
                                 <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required autocomplete="new-password">
                             </div>
                         </div>
+                        @if(Session::has('alert'))
 
+                        <div class="alert alert-success">
+
+                            {{ Session::get('alert') }}
+
+                            @php
+
+                            Session::forget('alert');
+
+                            @endphp
+
+                        </div>
+
+                        @endif
                         <div class="form-group row mb-0">
                             <div class="col-md-6 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
