@@ -160,7 +160,8 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         Jrean\UserVerification\UserVerificationServiceProvider::class,
-        QCod\ImageUp\ImageUpServiceProvider::class
+        QCod\ImageUp\ImageUpServiceProvider::class,
+        'Collective\Html\HtmlServiceProvider',
     ],
     /*
       |--------------------------------------------------------------------------
@@ -210,5 +211,7 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
         'UserVerification' => Jrean\UserVerification\Facades\UserVerification::class,
+        'Form' => 'Collective\Html\FormFacade',
+        'Html' => 'Collective\Html\HtmlFacade',
     ],
 ];

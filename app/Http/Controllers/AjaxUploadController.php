@@ -9,7 +9,7 @@ class AjaxUploadController extends Controller
 {
     function index()
     {
-     return view('ajax_upload');
+     return view('index');
     }
 //validation for image//
     function action(Request $request)

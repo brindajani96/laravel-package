@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/brinda_jani/htdocs/test/resources/views/edit.blade.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/resources/views/welcome.blade.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/resources/views/layouts/app.blade.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/app/subcategory.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/app/category.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/resources/views/index.blade.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/app/Http/Controllers/productcurdcontroller.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/app/productcurd.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/routes/web.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/resources/views/auth/login.blade.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/public/css/app.css</file>
+            <file>file:/home/brinda_jani/htdocs/test/resources/views/add.blade.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/config/app.php</file>
+            <file>file:/home/brinda_jani/htdocs/test/resources/views/layout.blade.php</file>
+        </group>
+    </open-files>
 </project-private>
